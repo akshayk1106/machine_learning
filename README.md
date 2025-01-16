@@ -1,6 +1,7 @@
 # Machine Learning
 
 #### Regression & Classification algorithms
+
   Linear Regression
   Polynomial Regression
   Logistic Regression
@@ -10,6 +11,7 @@
   Decision Tree
 
 #### Ensemble Models:
+
   Voting Ensemble
   Bagging
   Pasting
@@ -20,33 +22,40 @@
     XGBoost
   
 #### Clustering:
+
   KMeans
   HCA
   Gaussian Mixtures
   
 #### Dimensionality Reduction:
+
   PCA, Kernizalized-PCA
   LLE
   DBSCAN
   t-SNE
 
 #### Anomaly detection:
+
   One-Class SVM
   Isolation Forest
 
 #### Gradient Descent:
+
   Batch, Stochastic, Mini-Batch
   
 #### Regularization:
+
   Ridge, Lasso, ElasticNet, Early Stopping
 
 #### FineTune model:
+
   Splitting dataset, sampling techniques
   Cross Validation
   GridSearch
   Randomized search
 
 #### Performance Metrics:
+
   MAE, RMSE
   R2, Adjusted R2
   Accuracy
@@ -54,6 +63,7 @@
   P-R curve, ROC-AUC curve
 
 # Feature Engineering
+
   Missing Values Imputation
     Mean, Median, Mode, Using ML algorithm
   Feature Scaling
@@ -65,5 +75,6 @@
   Feature Selection
 
 #### Exploratory Data Analysis
+
   Univariate
   Multivariate
