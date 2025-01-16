@@ -2,13 +2,13 @@
 
 #### Regression & Classification algorithms
 
-  Linear Regression
-  Polynomial Regression
-  Logistic Regression
-  SVM, Kernalized-SVM
-  KNN
-  Naive Bayes
-  Decision Tree
+  - Linear Regression
+  - Polynomial Regression
+  - Logistic Regression
+  - SVM, Kernalized-SVM
+  - KNN
+  - Naive Bayes
+  - Decision Tree
 
 #### Ensemble Models:
 
