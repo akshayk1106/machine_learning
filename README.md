@@ -1,4 +1,4 @@
-# machine_learning
+# Machine Learning
 
 #### Regression & Classification algorithms
   Linear Regression
@@ -60,6 +60,8 @@
     Standardization, Normalization
   Imbalanced Dataset
   Categorical Encoding
+  Feature Transformation - log, exp, reciprocol, root, QQ
+  Handling Outliers
   Feature Selection
 
 #### Exploratory Data Analysis
